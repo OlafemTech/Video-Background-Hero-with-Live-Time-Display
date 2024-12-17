@@ -59,4 +59,4 @@ animated-pmi-inspired/
 MIT License - feel free to use this project for your own purposes
 
 ---
-Created with 💻 by [Your Name]
+Created with 💻 by @DigitalCivitas
